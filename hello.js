@@ -1,3 +1,3 @@
-const hello = () => "Hello World from Spain";
+const hello = () => "Texas is a LoneStar state";
 console.log(hello());
 exports.hello = hello;
